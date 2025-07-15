@@ -27,7 +27,8 @@ Primary Memory (Main Memory): Includes RAM (volatile) and ROM (non-volatile). It
 Secondary Memory: Non-volatile memory used for permanent storage (e.g., hard drives, SSDs).
 # Types of Memory
 
-![Image](https://github.com/user-attachments/assets/8651e75a-5552-4113-ba38-e1e560327383)
+![Image](https://github.com/user-attachments/assets/7eee42d9-a265-4c7d-856f-30eb6f5eec59)
+
 
 # What is RAM (Random Access Memory)?
 It is one of the parts of the Main memory, also famously known as Read Write Memory. Random Access memory is present on the motherboard and the computer's data is temporarily stored in RAM. As the name says, RAM can help in both reading and writing. RAM is a volatile memory, which means, it is present as long as the Computer is in the ON state, as soon as the computer turns OFF, the memory is erased.
@@ -36,7 +37,8 @@ It is one of the parts of the Main memory, also famously known as Read Write Mem
 Random Access Memory
 To better understand RAM, imagine the blackboard of the classroom, the students can both read and write and also erase the data written after the class is over, some new data can be entered now.
 
-![Image](https://github.com/user-attachments/assets/7eee42d9-a265-4c7d-856f-30eb6f5eec59)
+![Image](https://github.com/user-attachments/assets/7a099832-f484-4cef-8528-64f603052c21)
+
 
 # Evolution of RAM Technology
 Over the years, Random Access Memory (RAM) has undergone significant improvements. From its early beginnings with the Williams tube in 1947 to the most advanced DDR4 SDRAM in 2014, RAM technology has continually evolved to meet the growing needs for speed and efficiency in computers. The table below highlights the key milestones in the development of RAM, showing its progression from basic magnetic-core memory to high-speed, energy-efficient DDR4.
@@ -194,6 +196,6 @@ Physical Space: Increasing RAM requires physical space in the computer, which mi
 # Conclusion
 In conclusion, RAM (Random Access Memory) and ROM (Read-Only Memory) are two essential types of memory in a computer, each used for distinct purposes. RAM is a temporary, volatile memory used for storing data and instructions that the computer needs while it's running, making it crucial for the speed and performance of active tasks. In contrast, ROM is a non-volatile memory that permanently stores essential programs and instructions required for the computer to start up and perform basic functions.
 
-  # OUTPUT:-
+  # OUTPUT :-
+
   
-![Image](https://github.com/user-attachments/assets/7a099832-f484-4cef-8528-64f603052c21)
