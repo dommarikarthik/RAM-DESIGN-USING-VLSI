@@ -198,4 +198,5 @@ In conclusion, RAM (Random Access Memory) and ROM (Read-Only Memory) are two ess
 
   # OUTPUT :-
 
-  
+ ![Image](https://github.com/user-attachments/assets/8651e75a-5552-4113-ba38-e1e560327383)
+ 
